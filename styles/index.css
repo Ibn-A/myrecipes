@@ -1,0 +1,36 @@
+html {
+    font-family: "Quicksand, sans-serif";
+}
+body {
+    display: block;
+    margin: 8px;
+}
+.heading {
+    text-align: center;
+}
+
+div {
+    display: block;
+}
+.container {
+    gap: 40px;
+    display: flex;
+    flex-direction: row;
+    font-size: 20px;
+}
+.item {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  width: 400px;
+  text-align: center;
+}
+div img {
+    width: 400px;
+    height: 350px;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+}
