@@ -1,0 +1,14 @@
+h1 {
+    display:flex;
+    text-align: center;
+    color: blue;
+}
+header.page-header {
+    background: no-repeat left/cover url(../images/rougail_saucisses.jpeg);
+    display: flex;
+    height: 450px;
+    min-width: 350px;
+    align-items: center;
+    color: #fff;
+    text-shadow: #000 0 0 .2em;
+}
